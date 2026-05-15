@@ -14,7 +14,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = "8552385894:AAE-87n0Mee6EF3f9gvhswdP8KBmaD6ACbc"
+TOKEN = "8552385894:AAFlgzHaXol-tby4ZU-nmpripIRfrs_oax8"
 
 # Директория для временных файлов
 DOWNLOAD_DIR = "downloads"
