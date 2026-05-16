@@ -66,7 +66,7 @@ async def handle_url(message: Message) -> None:
 
     # Build info text
     lines = [
-        f"🎬 <b>{title}</b>",
+    f"🎬 <b>Видео найдено</b>",
         f"⏱ Длительность: <i>{duration_str}</i>",
         "",
         "📊 <b>Доступные качества:</b>",
