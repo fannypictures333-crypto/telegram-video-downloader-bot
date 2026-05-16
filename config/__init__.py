@@ -1,0 +1,15 @@
+from .settings import (
+    BOT_TOKEN,
+    TELEGRAM_MAX_FILE_SIZE,
+    DOWNLOAD_DIR,
+    DOWNLOAD_TIMEOUT,
+    SUPPORTED_DOMAINS,
+)
+
+__all__ = [
+    "BOT_TOKEN",
+    "TELEGRAM_MAX_FILE_SIZE",
+    "DOWNLOAD_DIR",
+    "DOWNLOAD_TIMEOUT",
+    "SUPPORTED_DOMAINS",
+]
